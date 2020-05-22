@@ -62,7 +62,7 @@ class Footer extends Component{
 
                                         <div className="col-lg-12">
                                             <div className="copyright-text">
-                                                <p>Copyright © 2020 Rainbow-Themes. All Rights Reserved.</p>
+                                                <p>Copyright © 2020 JAM Media Labs. All Rights Reserved.</p>
                                             </div>
                                         </div>
                                     </div>
