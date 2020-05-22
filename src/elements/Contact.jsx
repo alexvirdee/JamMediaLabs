@@ -33,8 +33,8 @@ class Contact extends Component{
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="rn-page-title text-center pt--100">
-                                    <h2 className="title theme-gradient">Cntact With Us</h2>
-                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. </p>
+                                    <h2 className="title theme-gradient">Let's Work Together</h2>
+                                    <p>Contact Us Today</p>
                                 </div>
                             </div>
                         </div>
